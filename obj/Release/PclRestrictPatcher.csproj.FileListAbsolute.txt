@@ -1,0 +1,15 @@
+D:\dsh\RIPPCL\toolkit\PclRestrictPatcher\bin\Release\PclRestrictPatcher.exe.config
+D:\dsh\RIPPCL\toolkit\PclRestrictPatcher\bin\Release\PclRestrictPatcher.exe
+D:\dsh\RIPPCL\toolkit\PclRestrictPatcher\bin\Release\PclRestrictPatcher.pdb
+D:\dsh\RIPPCL\toolkit\PclRestrictPatcher\bin\Release\Mono.Cecil.Mdb.dll
+D:\dsh\RIPPCL\toolkit\PclRestrictPatcher\bin\Release\Mono.Cecil.Pdb.dll
+D:\dsh\RIPPCL\toolkit\PclRestrictPatcher\bin\Release\Mono.Cecil.Rocks.dll
+D:\dsh\RIPPCL\toolkit\PclRestrictPatcher\bin\Release\Mono.Cecil.dll
+D:\dsh\RIPPCL\toolkit\PclRestrictPatcher\obj\Release\PclRestrictPatcher.csproj.AssemblyReference.cache
+D:\dsh\RIPPCL\toolkit\PclRestrictPatcher\obj\Release\PclRestrictPatcher.GeneratedMSBuildEditorConfig.editorconfig
+D:\dsh\RIPPCL\toolkit\PclRestrictPatcher\obj\Release\PclRestrictPatcher.AssemblyInfoInputs.cache
+D:\dsh\RIPPCL\toolkit\PclRestrictPatcher\obj\Release\PclRestrictPatcher.AssemblyInfo.cs
+D:\dsh\RIPPCL\toolkit\PclRestrictPatcher\obj\Release\PclRestrictPatcher.csproj.CoreCompileInputs.cache
+D:\dsh\RIPPCL\toolkit\PclRestrictPatcher\obj\Release\PclRestr.E53780EE.Up2Date
+D:\dsh\RIPPCL\toolkit\PclRestrictPatcher\obj\Release\PclRestrictPatcher.exe
+D:\dsh\RIPPCL\toolkit\PclRestrictPatcher\obj\Release\PclRestrictPatcher.pdb

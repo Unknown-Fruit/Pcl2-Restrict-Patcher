@@ -1,0 +1,172 @@
+{
+  "version": 4,
+  "targets": {
+    "net48": {
+      "Mono.Cecil/0.11.5": {
+        "type": "package",
+        "compile": {
+          "lib/net40/Mono.Cecil.Mdb.dll": {
+            "related": ".pdb"
+          },
+          "lib/net40/Mono.Cecil.Pdb.dll": {
+            "related": ".pdb"
+          },
+          "lib/net40/Mono.Cecil.Rocks.dll": {
+            "related": ".pdb"
+          },
+          "lib/net40/Mono.Cecil.dll": {
+            "related": ".Mdb.pdb;.pdb;.Pdb.pdb;.Rocks.pdb"
+          }
+        },
+        "runtime": {
+          "lib/net40/Mono.Cecil.Mdb.dll": {
+            "related": ".pdb"
+          },
+          "lib/net40/Mono.Cecil.Pdb.dll": {
+            "related": ".pdb"
+          },
+          "lib/net40/Mono.Cecil.Rocks.dll": {
+            "related": ".pdb"
+          },
+          "lib/net40/Mono.Cecil.dll": {
+            "related": ".Mdb.pdb;.pdb;.Pdb.pdb;.Rocks.pdb"
+          }
+        }
+      }
+    },
+    "net48/win-x86": {
+      "Mono.Cecil/0.11.5": {
+        "type": "package",
+        "compile": {
+          "lib/net40/Mono.Cecil.Mdb.dll": {
+            "related": ".pdb"
+          },
+          "lib/net40/Mono.Cecil.Pdb.dll": {
+            "related": ".pdb"
+          },
+          "lib/net40/Mono.Cecil.Rocks.dll": {
+            "related": ".pdb"
+          },
+          "lib/net40/Mono.Cecil.dll": {
+            "related": ".Mdb.pdb;.pdb;.Pdb.pdb;.Rocks.pdb"
+          }
+        },
+        "runtime": {
+          "lib/net40/Mono.Cecil.Mdb.dll": {
+            "related": ".pdb"
+          },
+          "lib/net40/Mono.Cecil.Pdb.dll": {
+            "related": ".pdb"
+          },
+          "lib/net40/Mono.Cecil.Rocks.dll": {
+            "related": ".pdb"
+          },
+          "lib/net40/Mono.Cecil.dll": {
+            "related": ".Mdb.pdb;.pdb;.Pdb.pdb;.Rocks.pdb"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Mono.Cecil/0.11.5": {
+      "sha512": "fxfX+0JGTZ8YQeu1MYjbBiK2CYTSzDyEeIixt+yqKKTn7FW8rv7JMY70qevup4ZJfD7Kk/VG/jDzQQTpfch87g==",
+      "type": "package",
+      "path": "mono.cecil/0.11.5",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net40/Mono.Cecil.Mdb.dll",
+        "lib/net40/Mono.Cecil.Mdb.pdb",
+        "lib/net40/Mono.Cecil.Pdb.dll",
+        "lib/net40/Mono.Cecil.Pdb.pdb",
+        "lib/net40/Mono.Cecil.Rocks.dll",
+        "lib/net40/Mono.Cecil.Rocks.pdb",
+        "lib/net40/Mono.Cecil.dll",
+        "lib/net40/Mono.Cecil.pdb",
+        "lib/netstandard2.0/Mono.Cecil.Mdb.dll",
+        "lib/netstandard2.0/Mono.Cecil.Mdb.pdb",
+        "lib/netstandard2.0/Mono.Cecil.Pdb.dll",
+        "lib/netstandard2.0/Mono.Cecil.Pdb.pdb",
+        "lib/netstandard2.0/Mono.Cecil.Rocks.dll",
+        "lib/netstandard2.0/Mono.Cecil.Rocks.pdb",
+        "lib/netstandard2.0/Mono.Cecil.dll",
+        "lib/netstandard2.0/Mono.Cecil.pdb",
+        "mono.cecil.0.11.5.nupkg.sha512",
+        "mono.cecil.nuspec"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net48": [
+      "Mono.Cecil >= 0.11.5"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\bro\\.nuget\\packages\\": {},
+    "D:\\visualstudio\\S\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\dsh\\RIPPCL\\toolkit\\PclRestrictPatcher\\PclRestrictPatcher.csproj",
+      "projectName": "PclRestrictPatcher",
+      "projectPath": "D:\\dsh\\RIPPCL\\toolkit\\PclRestrictPatcher\\PclRestrictPatcher.csproj",
+      "packagesPath": "C:\\Users\\bro\\.nuget\\packages\\",
+      "outputPath": "D:\\dsh\\RIPPCL\\toolkit\\PclRestrictPatcher\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "D:\\visualstudio\\S\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\bro\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net48"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net48": {
+          "framework": "net48",
+          "targetAlias": "net48",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      },
+      "SdkAnalysisLevel": "10.0.400"
+    },
+    "frameworks": {
+      "net48": {
+        "framework": "net48",
+        "targetAlias": "net48",
+        "dependencies": {
+          "Mono.Cecil": {
+            "target": "Package",
+            "version": "[0.11.5, )"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.401\\RuntimeIdentifierGraph.json"
+      }
+    },
+    "runtimes": {
+      "win-x86": {
+        "#import": []
+      }
+    }
+  }
+}
